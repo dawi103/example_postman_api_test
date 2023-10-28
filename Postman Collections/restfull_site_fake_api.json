@@ -350,7 +350,7 @@
 						}
 					}
 				},
-				"url": "{{restfull TEST SITE}}/booking/1"
+				"url": "{{restfull TEST SITE}}/booking/73"
 			},
 			"response": []
 		},
@@ -365,14 +365,14 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"firstname\" : \"Jacek\",\r\n    \"lastname\" : \"Brazowy\",\r\n    \"totalprice\" : 999,\r\n    \"depositpaid\" : false,\r\n    \"bookingdates\" : {\r\n        \"checkin\" : \"2018-01-02\",\r\n        \"checkout\" : \"2019-01-10\"\r\n    },\r\n    \"additionalneeds\" : \"Dinner\"\r\n}",
+					"raw": "{\r\n    \"firstname\" : \"Jacek\",\r\n    \"lastname\" : \"Brazowy\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
 						}
 					}
 				},
-				"url": "{{restfull TEST SITE}}/booking/1\n"
+				"url": "{{restfull TEST SITE}}/booking/73\n"
 			},
 			"response": []
 		},
